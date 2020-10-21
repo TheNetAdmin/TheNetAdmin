@@ -7,8 +7,8 @@ Aside researching, I build a few open-source projects, see below for more detail
 More information can be found on [my personal website](https://thenetadmin.net).
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenetadmin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenetadmin&&layout=compact&theme=vue" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenetadmin&&layout=compact&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenetadmin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&theme=vue" />
 </a>
