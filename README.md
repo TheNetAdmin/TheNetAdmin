@@ -6,7 +6,4 @@ Aside researching, I maintain a few open-source projects, see below for more det
 
 More information can be found on [my personal website](https://thenetadmin.net).
 
-<p float="left">
-  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api?username=thenetadmin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&theme=vue" />
-  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenetadmin&&layout=compact&theme=vue" />
-</p>
+![Metrics](https://github.com/TheNetAdmin/TheNetAdmin/blob/master/github-metrics.svg)
