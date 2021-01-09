@@ -26,4 +26,5 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 1000
           plugin_habits_days: 30
-          plugin_stargazers: yes
+          plugin_habits_charts: yes
+          plugin_stargazers: no
