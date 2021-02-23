@@ -7,3 +7,7 @@ Aside researching, I maintain a few open-source projects, see below for more det
 More information on my [personal website](https://thenetadmin.net).
 
 ![Metrics](https://github.com/TheNetAdmin/TheNetAdmin/blob/master/github-metrics.svg)
+
+**Page Views**
+
+![Page Views](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/TheNetAdmin)]
