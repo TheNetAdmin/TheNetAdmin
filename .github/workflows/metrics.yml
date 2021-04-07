@@ -30,3 +30,4 @@ jobs:
           # plugin_habits_charts: yes
           # plugin_habits_facts: no
           plugin_stargazers: no
+          plugin_lines: yes
