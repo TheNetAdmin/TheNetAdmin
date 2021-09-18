@@ -45,3 +45,8 @@ jobs:
           plugin_followup_sections: repositories
           plugin_repositories: yes
           plugin_repositories_featured: zjunix/zjunix, zjunix/bootloader, thenetadmin/zjuthesis, thenetadmin/lens-vans, thenetadmin/makefile-templates, thenetadmin/mightypc, thenetadmin/nap, thenetadmin/vscode-linkerscript, thenetadmin/qemu-microbit, thenetadmin/animaid, thenetadmin/nadict, thenetadmin/arduino-sword
+
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
