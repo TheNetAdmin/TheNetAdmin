@@ -14,7 +14,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
+          # Output
+          output_action: gist
+          committer_gist: 1bbd6cf035550d39ae7ed0b7e15a27e6
           # Options
           user: TheNetAdmin
           template: classic
