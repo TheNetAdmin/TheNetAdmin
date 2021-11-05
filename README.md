@@ -9,7 +9,7 @@
 
 <p align="center">More info on my <a href="https://thenetadmin.net">website</a>.</p>
 
-<p align="center"><img width=500 src="https://raw.githubusercontent.com/gist/TheNetAdmin/1bbd6cf035550d39ae7ed0b7e15a27e6/raw/b7a523ede65342c6d7cba871f1c92737ad4b5c77/github-metrics.svg"/></p>
+<p align="center"><img width=500 src="https://raw.githubusercontent.com/gist/TheNetAdmin/1bbd6cf035550d39ae7ed0b7e15a27e6/raw/github-metrics.svg"/></p>
 <p align="center"><img  width=500 title="Page Views" src="https://steins-gate-visitor-count.greenhandatsjtu.repl.co/TheNetAdmin"/></p>
 <p align="center">▲ Page Views</p>
 
