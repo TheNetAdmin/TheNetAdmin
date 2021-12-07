@@ -6,7 +6,6 @@
 
 <p align="center">I take photos, check my <a href="https://photos.thenetadmin.net">photo blog</a>.</p>
 
-
 <p align="center">More info on my <a href="https://thenetadmin.net">website</a>.</p>
 
 <p align="center"><img width=500 src="https://raw.githubusercontent.com/gist/TheNetAdmin/1bbd6cf035550d39ae7ed0b7e15a27e6/raw/github-metrics.svg"/></p>
