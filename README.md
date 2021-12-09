@@ -1,6 +1,6 @@
 # Zixuan Wang
 
-<p align="center">Hi, I'm Zixuan Wang, a PhD student at UCSD, doing research on memory systems.</p>
+<p align="center">Hi, I'm Zixuan Wang, a PhD candidate at UCSD, doing research on memory systems.</p>
 
 <p align="center">I maintain a few open-source projects, see below for more details.</p>
 
