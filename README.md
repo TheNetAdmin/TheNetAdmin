@@ -1,4 +1,4 @@
-# Zixuan Wang
+<h1><p align="center">Zixuan Wang</p></h1>
 
 <p align="center">Hi, I'm Zixuan Wang, a PhD candidate at UCSD, doing research on memory systems.</p>
 
