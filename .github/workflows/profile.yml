@@ -17,6 +17,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           # Output
+          output_action: commit
           committer_branch: metrics
           # Options
           user: TheNetAdmin
