@@ -2,8 +2,10 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "0 12 * * *"}]
-  push: {branches: "master"}
+  schedule: 
+    - cron: "0 12 * * *"
+  push: 
+    branches: ["master"]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
