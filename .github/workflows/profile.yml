@@ -17,8 +17,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           # Output
-          output_action: gist
-          committer_gist: 1bbd6cf035550d39ae7ed0b7e15a27e6
+          committer_branch: metrics
           # Options
           user: TheNetAdmin
           template: classic
@@ -50,4 +49,3 @@ jobs:
           plugin_followup_sections: repositories
           plugin_repositories: yes
           plugin_repositories_featured: zjunix/zjunix, zjunix/bootloader, thenetadmin/zjuthesis, thenetadmin/lens-vans, thenetadmin/makefile-templates, thenetadmin/mightypc, thenetadmin/nap, thenetadmin/vscode-linkerscript, thenetadmin/qemu-microbit, thenetadmin/animaid, thenetadmin/nadict, thenetadmin/arduino-sword
-      - uses: gautamkrishnar/keepalive-workflow@master
