@@ -44,9 +44,10 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_charts: yes
           plugin_habits_facts: no
-          plugin_stargazers: no
+          plugin_stargazers: yes
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_sections: repositories
+          plugin_followup_indepth: yes
           plugin_repositories: yes
           plugin_repositories_featured: zjunix/zjunix, zjunix/bootloader, thenetadmin/zjuthesis, thenetadmin/lens-vans, thenetadmin/makefile-templates, thenetadmin/mightypc, thenetadmin/nap, thenetadmin/vscode-linkerscript, thenetadmin/qemu-microbit, thenetadmin/animaid, thenetadmin/nadict, thenetadmin/arduino-sword
