@@ -9,7 +9,7 @@
 <p align="center">More info on my <a href="https://www.thenetadmin.net">website</a>.</p>
 
 <p align="center"><img width=500 src="https://github.com/TheNetAdmin/TheNetAdmin/blob/metrics/github-metrics.svg"/></p>
-<p align="center"><img  width=500 title="Page Views" src="https://steins-gate-visitor-count.greenhandatsjtu.repl.co/TheNetAdmin"/></p>
-<p align="center">▲ Page Views</p>
+<!-- <p align="center"><img  width=500 title="Page Views" src="https://steins-gate-visitor-count.greenhandatsjtu.repl.co/TheNetAdmin"/></p> -->
+<!-- <p align="center">▲ Page Views</p> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=18525442)
