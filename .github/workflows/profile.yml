@@ -51,3 +51,4 @@ jobs:
           plugin_followup_indepth: yes
           plugin_repositories: yes
           plugin_repositories_featured: zjunix/zjunix, zjunix/bootloader, thenetadmin/zjuthesis, thenetadmin/lens-vans, thenetadmin/makefile-templates, thenetadmin/mightypc, thenetadmin/nap, thenetadmin/vscode-linkerscript, thenetadmin/qemu-microbit, thenetadmin/animaid, thenetadmin/nadict, thenetadmin/arduino-sword
+          debug: yes
