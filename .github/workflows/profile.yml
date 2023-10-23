@@ -31,7 +31,7 @@ jobs:
           # Disabled due to token permission issue
           plugin_traffic: no
 
-          plugin_followup: yes
+          plugin_followup: no
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories, user
 
@@ -61,9 +61,9 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_days: 30
 
-          plugin_stargazers: yes
+          plugin_stargazers: no
           
-          plugin_repositories: yes
+          plugin_repositories: no
           plugin_repositories_featured: zjunix/zjunix, zjunix/bootloader, thenetadmin/zjuthesis, thenetadmin/lens-vans, thenetadmin/makefile-templates, thenetadmin/mightypc, thenetadmin/nap, thenetadmin/vscode-linkerscript, thenetadmin/qemu-microbit, thenetadmin/animaid, thenetadmin/nadict, thenetadmin/arduino-sword
           
           plugin_activity: no
