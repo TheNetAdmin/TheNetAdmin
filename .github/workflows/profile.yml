@@ -28,7 +28,8 @@ jobs:
           config_animations: no
 
           plugin_lines: yes
-          plugin_traffic: yes
+          # Disabled due to token permission issue
+          plugin_traffic: no
 
           plugin_followup: yes
           plugin_followup_indepth: yes
@@ -54,7 +55,7 @@ jobs:
           plugin_achievements_ignored: verified, automater, infographile, worker, forker, follower, contributor, reviewer, scripter, explorer
           plugin_achievements_display: compact
 
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_habits_from: 1000
