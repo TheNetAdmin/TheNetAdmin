@@ -3589,7 +3589,7 @@ Cat feeder.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 21.7k out of 84.3m repositories</span>
+                                    <span class="gh">ranked 21.7k out of 93.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2017</div>
                                     </div>
@@ -3814,7 +3814,7 @@ Cat feeder.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2023, 12:16:58 (timezone America/Tijuana) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2023, 12:21:17 (timezone America/Tijuana) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
