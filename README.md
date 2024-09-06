@@ -4,9 +4,9 @@
 
 <p align="center">I maintain a few open-source projects, see below for more details.</p>
 
-<p align="center">I take photos, check my <a href="https://photos.thenetadmin.net">photo blog</a>.</p>
+<p align="center">I take photos, check my <a href="https://photos.zixuan.wang">photo blog</a>.</p>
 
-<p align="center">More info on my <a href="https://www.thenetadmin.net">website</a>.</p>
+<p align="center">More info on my <a href="https://www.zixuan.wang">website</a>.</p>
 
 <!-- <p align="center"><img width=500 src="https://github.com/TheNetAdmin/TheNetAdmin/blob/metrics/github-metrics.svg"/></p> -->
 
