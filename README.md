@@ -1,8 +1,10 @@
 <h1><p align="center">Zixuan Wang</p></h1>
 
-<p align="center">Hi, I'm Zixuan Wang, a PhD candidate at UCSD, doing research on memory systems.</p>
+<p align="center">Hi, I'm Zixuan Wang, an SDE at Apple. </p>
 
-<p align="center">I maintain a few open-source projects, see below for more details.</p>
+<p align="center">I got my PhD from UCSD and did some system research.</p>
+
+<p align="center">I maintain a few open-source projects. See below for more details.</p>
 
 <p align="center">I take photos, check my <a href="https://photos.zixuan.wang">photo blog</a>.</p>
 
