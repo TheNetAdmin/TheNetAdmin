@@ -4,9 +4,9 @@
 
 <p align="center">I got my PhD from UCSD and did some system research.</p>
 
-<p align="center">I maintain a few open-source projects. See below for more details.</p>
+<p align="center">I maintain a few open-source projects.</p>
 
-<p align="center">I take photos, check my <a href="https://photos.zixuan.wang">photo blog</a>.</p>
+<p align="center">I <a href="https://photos.zixuan.wang">take photos</a>.</p>
 
 <p align="center">More info on my <a href="https://www.zixuan.wang">website</a>.</p>
 
