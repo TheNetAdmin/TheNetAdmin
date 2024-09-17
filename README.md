@@ -8,7 +8,7 @@
 
 <p align="center">I <a href="https://photos.zixuan.wang">take photos</a>.</p>
 
-<p align="center">More info on my <a href="https://www.zixuan.wang">website</a>.</p>
+<p align="center">My website: <a href="https://www.zixuan.wang">zixuan.wang</a>.</p>
 
 <!-- <p align="center"><img width=500 src="https://github.com/TheNetAdmin/TheNetAdmin/blob/metrics/github-metrics.svg"/></p> -->
 
